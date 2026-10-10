@@ -33,6 +33,7 @@
 
 html {
   -webkit-text-size-adjust: 100%;
+  scrollbar-gutter: stable; /* Évite le décalage entre une page courte et une page qui défile */
 }
 
 body {
