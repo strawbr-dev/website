@@ -114,7 +114,7 @@ main {
 }
 
 .hero h1 {
-  max-width: 14ch;
+  max-width: 16ch; /* Le titre tient sur 2 lignes en anglais comme en français */
   margin: 0 0 20px;
   font-size: clamp(40px, 7vw, 64px);
   line-height: 1.05;
